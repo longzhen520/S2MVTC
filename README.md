@@ -1,5 +1,6 @@
 ## S^2MVTC
 code of CVPR2024 "S^2MVTC: a Simple yet Efficient Scalable Multi-View Tensor Clustering "
+
 ------------------------------------------------------
 
 ## run
